@@ -19,7 +19,7 @@ This lab demonstrates how to use the `grep` command to search for patterns in fi
 
 ## Screenshots
 
-Visual examples from the lab are stored in the `/screenshots` directory.
+Visual examples from the lab are stored in the full lab report pdf below.
 
 ## Full Lab Report
 
